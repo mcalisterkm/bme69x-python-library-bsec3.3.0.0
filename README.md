@@ -9,7 +9,7 @@ Also in this release the Python 'build' package is used, rather than calling set
 
 BME690 Sensor modules from Pimoroni are used in development and testing, connected using I2C to Rapberry Pi Zero, Zero2, PI 4, and PI 5. Bosch Sensortec BSEC3.3 supports PI3 ARM v6,  PI3 ARM v8, PI4 ARM v8 (32 and 64bit support).
 
-If you have a BME680 or BME688 please use BSEC2 v2.6.1.0 and the Python wrapper which is stable and has 64bit and 32 bit support [here](https://github.com/mcalisterkm/bme68x-python-library-bsec2.6.1.0).  
+If you have a BME680 or BME688 please use BSEC2 v2.6.1.0 and its Python wrapper which is stable and has 64bit and 32 bit support [here](https://github.com/mcalisterkm/bme68x-python-library-bsec2.6.1.0).  
 
 ### Pre-requisites
 
