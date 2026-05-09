@@ -1,0 +1,5672 @@
+Testing TVOC in LP Mode
+============================================================
+Sample rate: 0.33333, LP rate: 0.33333, diff: 0.00000
+TVOC sensor enabled - adding to subscription (LP mode detected)
+Total requested virtual sensors: 14
+set_sample_rate(LP) returned: 14
+LP sample rate value: 0.33333
+
+Monitoring sensor data (TVOC may take several minutes to appear)...
+Press Ctrl+C to stop
+
+[TVOC] Calibration started at 1766325969 - baseline adaptation enabled for 30 minutes
+[TVOC] Calibration in progress - elapsed: 3/1800 seconds
+[14:06:13] Sample #1
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.5°C, Humidity: 77.6%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 7/1800 seconds
+[14:06:16] Sample #2
+  IAQ: 50.0 (acc: 0)
+  Temp: 16.3°C, Humidity: 71.6%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 10/1800 seconds
+[14:06:19] Sample #3
+  IAQ: 50.0 (acc: 0)
+  Temp: 16.0°C, Humidity: 73.1%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 13/1800 seconds
+[14:06:22] Sample #4
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.9°C, Humidity: 73.9%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 16/1800 seconds
+[14:06:25] Sample #5
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.9°C, Humidity: 74.2%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 19/1800 seconds
+[14:06:28] Sample #6
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.9°C, Humidity: 73.9%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 22/1800 seconds
+[14:06:31] Sample #7
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.9°C, Humidity: 74.1%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 25/1800 seconds
+[14:06:34] Sample #8
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.9°C, Humidity: 74.7%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 28/1800 seconds
+[14:06:37] Sample #9
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.8°C, Humidity: 75.2%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 31/1800 seconds
+[14:06:40] Sample #10
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.8°C, Humidity: 75.7%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 34/1800 seconds
+[14:06:43] Sample #11
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.7°C, Humidity: 76.2%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 37/1800 seconds
+[14:06:46] Sample #12
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.7°C, Humidity: 76.5%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 40/1800 seconds
+[14:06:49] Sample #13
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.7°C, Humidity: 76.6%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 43/1800 seconds
+[14:06:53] Sample #14
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.7°C, Humidity: 76.7%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 47/1800 seconds
+[14:06:56] Sample #15
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.7°C, Humidity: 76.7%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 50/1800 seconds
+[14:06:59] Sample #16
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.6°C, Humidity: 76.6%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 53/1800 seconds
+[14:07:02] Sample #17
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.6°C, Humidity: 76.7%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 56/1800 seconds
+[14:07:05] Sample #18
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.6°C, Humidity: 76.9%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 59/1800 seconds
+[14:07:08] Sample #19
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.6°C, Humidity: 76.9%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 62/1800 seconds
+[14:07:11] Sample #20
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.6°C, Humidity: 76.8%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 65/1800 seconds
+[14:07:14] Sample #21
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.6°C, Humidity: 76.7%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 68/1800 seconds
+[14:07:17] Sample #22
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.6°C, Humidity: 76.6%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 71/1800 seconds
+[14:07:20] Sample #23
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.6°C, Humidity: 76.7%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 74/1800 seconds
+[14:07:23] Sample #24
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.6°C, Humidity: 76.7%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 77/1800 seconds
+[14:07:26] Sample #25
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.6°C, Humidity: 76.7%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 80/1800 seconds
+[14:07:30] Sample #26
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.6°C, Humidity: 76.8%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 84/1800 seconds
+[14:07:33] Sample #27
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.6°C, Humidity: 76.8%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 87/1800 seconds
+[14:07:36] Sample #28
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.6°C, Humidity: 76.8%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 90/1800 seconds
+[14:07:39] Sample #29
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.6°C, Humidity: 76.7%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 93/1800 seconds
+[14:07:42] Sample #30
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.6°C, Humidity: 76.6%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 96/1800 seconds
+[14:07:45] Sample #31
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.6°C, Humidity: 76.7%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 99/1800 seconds
+[14:07:48] Sample #32
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.5°C, Humidity: 76.7%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 102/1800 seconds
+[14:07:51] Sample #33
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.5°C, Humidity: 76.7%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 105/1800 seconds
+[14:07:54] Sample #34
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.5°C, Humidity: 76.8%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 108/1800 seconds
+[14:07:57] Sample #35
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.5°C, Humidity: 76.8%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 111/1800 seconds
+[14:08:00] Sample #36
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.5°C, Humidity: 77.0%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 114/1800 seconds
+[14:08:03] Sample #37
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.5°C, Humidity: 77.0%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 117/1800 seconds
+[14:08:07] Sample #38
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.5°C, Humidity: 77.0%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 121/1800 seconds
+[14:08:10] Sample #39
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.5°C, Humidity: 76.9%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 124/1800 seconds
+[14:08:13] Sample #40
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.5°C, Humidity: 76.9%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 127/1800 seconds
+[14:08:16] Sample #41
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.5°C, Humidity: 77.0%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 130/1800 seconds
+[14:08:19] Sample #42
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.5°C, Humidity: 77.3%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 133/1800 seconds
+[14:08:22] Sample #43
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.5°C, Humidity: 77.2%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 136/1800 seconds
+[14:08:25] Sample #44
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.5°C, Humidity: 76.9%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 139/1800 seconds
+[14:08:28] Sample #45
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.5°C, Humidity: 77.0%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 142/1800 seconds
+[14:08:31] Sample #46
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.5°C, Humidity: 77.1%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 145/1800 seconds
+[14:08:34] Sample #47
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.5°C, Humidity: 77.1%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 148/1800 seconds
+[14:08:37] Sample #48
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.5°C, Humidity: 77.1%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 151/1800 seconds
+[14:08:40] Sample #49
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.5°C, Humidity: 77.4%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 154/1800 seconds
+[14:08:43] Sample #50
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.4°C, Humidity: 77.5%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 157/1800 seconds
+[14:08:47] Sample #51
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.4°C, Humidity: 77.6%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 161/1800 seconds
+[14:08:50] Sample #52
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.4°C, Humidity: 77.7%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 164/1800 seconds
+[14:08:53] Sample #53
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.4°C, Humidity: 77.8%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 167/1800 seconds
+[14:08:56] Sample #54
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.4°C, Humidity: 77.7%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 170/1800 seconds
+[14:08:59] Sample #55
+  IAQ: 50.0 (acc: 0)
+  Temp: 15.4°C, Humidity: 77.5%
+  CO2: 500.0 ppm (acc: 0)
+  bVOC: 0.50 ppm (acc: 0)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 173/1800 seconds
+[14:09:02] Sample #56
+  IAQ: 50.0 (acc: 1)
+  Temp: 15.4°C, Humidity: 77.4%
+  CO2: 500.0 ppm (acc: 1)
+  bVOC: 0.50 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 176/1800 seconds
+[14:09:05] Sample #57
+  IAQ: 50.0 (acc: 1)
+  Temp: 15.4°C, Humidity: 77.4%
+  CO2: 500.0 ppm (acc: 1)
+  bVOC: 0.50 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 179/1800 seconds
+[14:09:08] Sample #58
+  IAQ: 50.0 (acc: 1)
+  Temp: 15.4°C, Humidity: 77.3%
+  CO2: 500.0 ppm (acc: 1)
+  bVOC: 0.50 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 182/1800 seconds
+[14:09:11] Sample #59
+  IAQ: 50.4 (acc: 1)
+  Temp: 15.4°C, Humidity: 77.3%
+  CO2: 501.9 ppm (acc: 1)
+  bVOC: 0.50 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 185/1800 seconds
+[14:09:14] Sample #60
+  IAQ: 52.9 (acc: 1)
+  Temp: 15.4°C, Humidity: 77.3%
+  CO2: 512.7 ppm (acc: 1)
+  bVOC: 0.51 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 188/1800 seconds
+[14:09:17] Sample #61
+  IAQ: 53.2 (acc: 1)
+  Temp: 15.4°C, Humidity: 77.4%
+  CO2: 513.8 ppm (acc: 1)
+  bVOC: 0.52 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 191/1800 seconds
+[14:09:20] Sample #62
+  IAQ: 57.8 (acc: 1)
+  Temp: 15.4°C, Humidity: 77.6%
+  CO2: 533.9 ppm (acc: 1)
+  bVOC: 0.54 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 194/1800 seconds
+[14:09:24] Sample #63
+  IAQ: 58.8 (acc: 1)
+  Temp: 15.4°C, Humidity: 77.8%
+  CO2: 538.4 ppm (acc: 1)
+  bVOC: 0.55 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 198/1800 seconds
+[14:09:27] Sample #64
+  IAQ: 60.1 (acc: 1)
+  Temp: 15.4°C, Humidity: 77.7%
+  CO2: 544.2 ppm (acc: 1)
+  bVOC: 0.55 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 201/1800 seconds
+[14:09:30] Sample #65
+  IAQ: 59.6 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.7%
+  CO2: 541.8 ppm (acc: 1)
+  bVOC: 0.55 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 204/1800 seconds
+[14:09:33] Sample #66
+  IAQ: 58.0 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.5%
+  CO2: 534.8 ppm (acc: 1)
+  bVOC: 0.54 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 207/1800 seconds
+[14:09:36] Sample #67
+  IAQ: 57.5 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.5%
+  CO2: 532.9 ppm (acc: 1)
+  bVOC: 0.54 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 210/1800 seconds
+[14:09:39] Sample #68
+  IAQ: 55.9 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.4%
+  CO2: 525.8 ppm (acc: 1)
+  bVOC: 0.53 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 213/1800 seconds
+[14:09:42] Sample #69
+  IAQ: 57.0 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.4%
+  CO2: 530.5 ppm (acc: 1)
+  bVOC: 0.54 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 216/1800 seconds
+[14:09:45] Sample #70
+  IAQ: 60.6 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.2%
+  CO2: 546.4 ppm (acc: 1)
+  bVOC: 0.56 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 219/1800 seconds
+[14:09:48] Sample #71
+  IAQ: 62.8 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.3%
+  CO2: 555.8 ppm (acc: 1)
+  bVOC: 0.57 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 222/1800 seconds
+[14:09:51] Sample #72
+  IAQ: 63.8 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.4%
+  CO2: 560.1 ppm (acc: 1)
+  bVOC: 0.57 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 225/1800 seconds
+[14:09:54] Sample #73
+  IAQ: 66.5 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.5%
+  CO2: 572.3 ppm (acc: 1)
+  bVOC: 0.59 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 228/1800 seconds
+[14:09:57] Sample #74
+  IAQ: 68.9 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.3%
+  CO2: 582.5 ppm (acc: 1)
+  bVOC: 0.60 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 231/1800 seconds
+[14:10:00] Sample #75
+  IAQ: 72.7 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.2%
+  CO2: 599.2 ppm (acc: 1)
+  bVOC: 0.63 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 234/1800 seconds
+[14:10:04] Sample #76
+  IAQ: 74.4 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.4%
+  CO2: 606.6 ppm (acc: 1)
+  bVOC: 0.64 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 238/1800 seconds
+[14:10:07] Sample #77
+  IAQ: 75.1 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.4%
+  CO2: 609.8 ppm (acc: 1)
+  bVOC: 0.64 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 241/1800 seconds
+[14:10:10] Sample #78
+  IAQ: 77.2 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.5%
+  CO2: 618.8 ppm (acc: 1)
+  bVOC: 0.65 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 244/1800 seconds
+[14:10:13] Sample #79
+  IAQ: 81.2 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.5%
+  CO2: 636.1 ppm (acc: 1)
+  bVOC: 0.68 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 247/1800 seconds
+[14:10:16] Sample #80
+  IAQ: 81.4 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.6%
+  CO2: 637.4 ppm (acc: 1)
+  bVOC: 0.68 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 250/1800 seconds
+[14:10:19] Sample #81
+  IAQ: 81.7 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.6%
+  CO2: 638.4 ppm (acc: 1)
+  bVOC: 0.68 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 253/1800 seconds
+[14:10:22] Sample #82
+  IAQ: 84.2 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.8%
+  CO2: 649.6 ppm (acc: 1)
+  bVOC: 0.70 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 256/1800 seconds
+[14:10:25] Sample #83
+  IAQ: 83.9 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.9%
+  CO2: 648.0 ppm (acc: 1)
+  bVOC: 0.70 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 259/1800 seconds
+[14:10:28] Sample #84
+  IAQ: 84.0 (acc: 1)
+  Temp: 15.3°C, Humidity: 78.0%
+  CO2: 648.5 ppm (acc: 1)
+  bVOC: 0.70 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 262/1800 seconds
+[14:10:31] Sample #85
+  IAQ: 85.1 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.9%
+  CO2: 653.4 ppm (acc: 1)
+  bVOC: 0.71 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 265/1800 seconds
+[14:10:34] Sample #86
+  IAQ: 84.8 (acc: 1)
+  Temp: 15.3°C, Humidity: 78.0%
+  CO2: 652.0 ppm (acc: 1)
+  bVOC: 0.71 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 268/1800 seconds
+[14:10:37] Sample #87
+  IAQ: 83.4 (acc: 1)
+  Temp: 15.3°C, Humidity: 78.1%
+  CO2: 646.1 ppm (acc: 1)
+  bVOC: 0.70 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 271/1800 seconds
+[14:10:41] Sample #88
+  IAQ: 82.0 (acc: 1)
+  Temp: 15.3°C, Humidity: 78.1%
+  CO2: 639.6 ppm (acc: 1)
+  bVOC: 0.69 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 275/1800 seconds
+[14:10:44] Sample #89
+  IAQ: 79.6 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.9%
+  CO2: 629.4 ppm (acc: 1)
+  bVOC: 0.67 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 278/1800 seconds
+[14:10:47] Sample #90
+  IAQ: 80.7 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.8%
+  CO2: 634.0 ppm (acc: 1)
+  bVOC: 0.68 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 281/1800 seconds
+[14:10:50] Sample #91
+  IAQ: 80.5 (acc: 1)
+  Temp: 15.3°C, Humidity: 77.8%
+  CO2: 633.1 ppm (acc: 1)
+  bVOC: 0.68 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 284/1800 seconds
+[14:10:53] Sample #92
+  IAQ: 81.3 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.8%
+  CO2: 636.9 ppm (acc: 1)
+  bVOC: 0.68 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 287/1800 seconds
+[14:10:56] Sample #93
+  IAQ: 80.0 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.8%
+  CO2: 631.2 ppm (acc: 1)
+  bVOC: 0.67 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 290/1800 seconds
+[14:10:59] Sample #94
+  IAQ: 80.9 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.6%
+  CO2: 634.9 ppm (acc: 1)
+  bVOC: 0.68 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 293/1800 seconds
+[14:11:02] Sample #95
+  IAQ: 82.6 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.6%
+  CO2: 642.2 ppm (acc: 1)
+  bVOC: 0.69 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 296/1800 seconds
+[14:11:05] Sample #96
+  IAQ: 81.4 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.6%
+  CO2: 637.0 ppm (acc: 1)
+  bVOC: 0.68 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 299/1800 seconds
+[14:11:08] Sample #97
+  IAQ: 81.1 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.6%
+  CO2: 635.9 ppm (acc: 1)
+  bVOC: 0.68 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 302/1800 seconds
+[14:11:11] Sample #98
+  IAQ: 83.0 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.7%
+  CO2: 644.3 ppm (acc: 1)
+  bVOC: 0.69 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 305/1800 seconds
+[14:11:14] Sample #99
+  IAQ: 85.9 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.7%
+  CO2: 656.9 ppm (acc: 1)
+  bVOC: 0.71 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 308/1800 seconds
+[14:11:17] Sample #100
+  IAQ: 84.5 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.8%
+  CO2: 650.5 ppm (acc: 1)
+  bVOC: 0.70 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 311/1800 seconds
+[14:11:21] Sample #101
+  IAQ: 85.8 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.0%
+  CO2: 656.4 ppm (acc: 1)
+  bVOC: 0.71 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 315/1800 seconds
+[14:11:24] Sample #102
+  IAQ: 85.4 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.2%
+  CO2: 654.8 ppm (acc: 1)
+  bVOC: 0.71 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 318/1800 seconds
+[14:11:27] Sample #103
+  IAQ: 84.1 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.2%
+  CO2: 648.8 ppm (acc: 1)
+  bVOC: 0.70 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 321/1800 seconds
+[14:11:30] Sample #104
+  IAQ: 83.8 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.0%
+  CO2: 647.4 ppm (acc: 1)
+  bVOC: 0.70 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 324/1800 seconds
+[14:11:33] Sample #105
+  IAQ: 81.7 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.9%
+  CO2: 638.5 ppm (acc: 1)
+  bVOC: 0.68 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 327/1800 seconds
+[14:11:36] Sample #106
+  IAQ: 83.2 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.0%
+  CO2: 645.1 ppm (acc: 1)
+  bVOC: 0.69 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 330/1800 seconds
+[14:11:39] Sample #107
+  IAQ: 82.7 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.0%
+  CO2: 643.0 ppm (acc: 1)
+  bVOC: 0.69 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 333/1800 seconds
+[14:11:42] Sample #108
+  IAQ: 81.0 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.9%
+  CO2: 635.5 ppm (acc: 1)
+  bVOC: 0.68 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 336/1800 seconds
+[14:11:45] Sample #109
+  IAQ: 81.0 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.8%
+  CO2: 635.4 ppm (acc: 1)
+  bVOC: 0.68 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 339/1800 seconds
+[14:11:48] Sample #110
+  IAQ: 82.2 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.7%
+  CO2: 640.5 ppm (acc: 1)
+  bVOC: 0.69 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 342/1800 seconds
+[14:11:51] Sample #111
+  IAQ: 83.1 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.7%
+  CO2: 644.6 ppm (acc: 1)
+  bVOC: 0.69 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 345/1800 seconds
+[14:11:54] Sample #112
+  IAQ: 83.4 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.7%
+  CO2: 646.0 ppm (acc: 1)
+  bVOC: 0.70 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 348/1800 seconds
+[14:11:58] Sample #113
+  IAQ: 84.7 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.7%
+  CO2: 651.7 ppm (acc: 1)
+  bVOC: 0.71 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 352/1800 seconds
+[14:12:01] Sample #114
+  IAQ: 86.1 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.8%
+  CO2: 657.9 ppm (acc: 1)
+  bVOC: 0.72 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 355/1800 seconds
+[14:12:04] Sample #115
+  IAQ: 87.3 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.1%
+  CO2: 663.1 ppm (acc: 1)
+  bVOC: 0.72 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 358/1800 seconds
+[14:12:07] Sample #116
+  IAQ: 88.7 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.0%
+  CO2: 669.3 ppm (acc: 1)
+  bVOC: 0.73 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 361/1800 seconds
+[14:12:10] Sample #117
+  IAQ: 89.9 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.8%
+  CO2: 674.5 ppm (acc: 1)
+  bVOC: 0.74 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 364/1800 seconds
+[14:12:13] Sample #118
+  IAQ: 92.3 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.8%
+  CO2: 684.9 ppm (acc: 1)
+  bVOC: 0.76 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 367/1800 seconds
+[14:12:16] Sample #119
+  IAQ: 91.0 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.9%
+  CO2: 679.1 ppm (acc: 1)
+  bVOC: 0.75 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 370/1800 seconds
+[14:12:19] Sample #120
+  IAQ: 90.6 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.9%
+  CO2: 677.5 ppm (acc: 1)
+  bVOC: 0.75 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 373/1800 seconds
+[14:12:22] Sample #121
+  IAQ: 92.5 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.8%
+  CO2: 685.6 ppm (acc: 1)
+  bVOC: 0.76 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 376/1800 seconds
+[14:12:25] Sample #122
+  IAQ: 92.4 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.8%
+  CO2: 685.0 ppm (acc: 1)
+  bVOC: 0.76 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 379/1800 seconds
+[14:12:28] Sample #123
+  IAQ: 91.9 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.8%
+  CO2: 683.1 ppm (acc: 1)
+  bVOC: 0.76 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 382/1800 seconds
+[14:12:31] Sample #124
+  IAQ: 93.2 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.8%
+  CO2: 688.6 ppm (acc: 1)
+  bVOC: 0.77 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 385/1800 seconds
+[14:12:35] Sample #125
+  IAQ: 94.6 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.8%
+  CO2: 694.7 ppm (acc: 1)
+  bVOC: 0.78 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 389/1800 seconds
+[14:12:38] Sample #126
+  IAQ: 95.8 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.0%
+  CO2: 700.2 ppm (acc: 1)
+  bVOC: 0.79 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 392/1800 seconds
+[14:12:41] Sample #127
+  IAQ: 96.1 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.1%
+  CO2: 701.5 ppm (acc: 1)
+  bVOC: 0.79 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 395/1800 seconds
+[14:12:44] Sample #128
+  IAQ: 98.7 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.2%
+  CO2: 712.8 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 398/1800 seconds
+[14:12:47] Sample #129
+  IAQ: 98.7 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.0%
+  CO2: 712.7 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 401/1800 seconds
+[14:12:50] Sample #130
+  IAQ: 97.7 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.0%
+  CO2: 708.2 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 404/1800 seconds
+[14:12:53] Sample #131
+  IAQ: 96.8 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.1%
+  CO2: 704.4 ppm (acc: 1)
+  bVOC: 0.79 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 407/1800 seconds
+[14:12:56] Sample #132
+  IAQ: 96.7 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.1%
+  CO2: 703.9 ppm (acc: 1)
+  bVOC: 0.79 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 410/1800 seconds
+[14:12:59] Sample #133
+  IAQ: 95.3 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.0%
+  CO2: 697.7 ppm (acc: 1)
+  bVOC: 0.78 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 413/1800 seconds
+[14:13:02] Sample #134
+  IAQ: 97.3 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.0%
+  CO2: 706.8 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 416/1800 seconds
+[14:13:05] Sample #135
+  IAQ: 97.4 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.9%
+  CO2: 706.9 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 419/1800 seconds
+[14:13:08] Sample #136
+  IAQ: 97.5 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.9%
+  CO2: 707.6 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 422/1800 seconds
+[14:13:11] Sample #137
+  IAQ: 98.2 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.9%
+  CO2: 710.4 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 425/1800 seconds
+[14:13:15] Sample #138
+  IAQ: 99.1 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.0%
+  CO2: 714.6 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 429/1800 seconds
+[14:13:18] Sample #139
+  IAQ: 97.8 (acc: 1)
+  Temp: 15.2°C, Humidity: 77.9%
+  CO2: 708.9 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 432/1800 seconds
+[14:13:21] Sample #140
+  IAQ: 99.2 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.1%
+  CO2: 714.9 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 435/1800 seconds
+[14:13:24] Sample #141
+  IAQ: 99.9 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.4%
+  CO2: 717.8 ppm (acc: 1)
+  bVOC: 0.82 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 438/1800 seconds
+[14:13:27] Sample #142
+  IAQ: 98.2 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.4%
+  CO2: 710.5 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 441/1800 seconds
+[14:13:30] Sample #143
+  IAQ: 98.4 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.4%
+  CO2: 711.4 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 444/1800 seconds
+[14:13:33] Sample #144
+  IAQ: 99.9 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.5%
+  CO2: 717.8 ppm (acc: 1)
+  bVOC: 0.82 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 447/1800 seconds
+[14:13:36] Sample #145
+  IAQ: 100.3 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.4%
+  CO2: 719.9 ppm (acc: 1)
+  bVOC: 0.82 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 450/1800 seconds
+[14:13:39] Sample #146
+  IAQ: 100.4 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.2%
+  CO2: 720.2 ppm (acc: 1)
+  bVOC: 0.82 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 453/1800 seconds
+[14:13:42] Sample #147
+  IAQ: 100.6 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.1%
+  CO2: 720.9 ppm (acc: 1)
+  bVOC: 0.83 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 456/1800 seconds
+[14:13:45] Sample #148
+  IAQ: 99.0 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 714.2 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 459/1800 seconds
+[14:13:48] Sample #149
+  IAQ: 98.8 (acc: 1)
+  Temp: 15.2°C, Humidity: 78.4%
+  CO2: 713.2 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 462/1800 seconds
+[14:13:52] Sample #150
+  IAQ: 100.2 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 719.3 ppm (acc: 1)
+  bVOC: 0.82 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 466/1800 seconds
+[14:13:55] Sample #151
+  IAQ: 99.9 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.1%
+  CO2: 717.9 ppm (acc: 1)
+  bVOC: 0.82 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 469/1800 seconds
+[14:13:58] Sample #152
+  IAQ: 100.1 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 718.6 ppm (acc: 1)
+  bVOC: 0.82 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 472/1800 seconds
+[14:14:01] Sample #153
+  IAQ: 100.2 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 719.3 ppm (acc: 1)
+  bVOC: 0.82 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 475/1800 seconds
+[14:14:04] Sample #154
+  IAQ: 99.9 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.1%
+  CO2: 718.1 ppm (acc: 1)
+  bVOC: 0.82 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 478/1800 seconds
+[14:14:07] Sample #155
+  IAQ: 97.0 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.0%
+  CO2: 705.2 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 481/1800 seconds
+[14:14:10] Sample #156
+  IAQ: 95.5 (acc: 1)
+  Temp: 15.1°C, Humidity: 77.9%
+  CO2: 698.9 ppm (acc: 1)
+  bVOC: 0.78 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 484/1800 seconds
+[14:14:13] Sample #157
+  IAQ: 95.5 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.1%
+  CO2: 698.6 ppm (acc: 1)
+  bVOC: 0.78 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 487/1800 seconds
+[14:14:16] Sample #158
+  IAQ: 97.7 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 708.2 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 490/1800 seconds
+[14:14:19] Sample #159
+  IAQ: 97.0 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 705.3 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 493/1800 seconds
+[14:14:22] Sample #160
+  IAQ: 96.9 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.5%
+  CO2: 704.7 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 496/1800 seconds
+[14:14:25] Sample #161
+  IAQ: 98.1 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.6%
+  CO2: 710.3 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 499/1800 seconds
+[14:14:28] Sample #162
+  IAQ: 99.4 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.6%
+  CO2: 715.8 ppm (acc: 1)
+  bVOC: 0.82 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 502/1800 seconds
+[14:14:32] Sample #163
+  IAQ: 97.7 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.5%
+  CO2: 708.5 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 506/1800 seconds
+[14:14:35] Sample #164
+  IAQ: 97.1 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.5%
+  CO2: 705.6 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 509/1800 seconds
+[14:14:38] Sample #165
+  IAQ: 98.1 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 710.2 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 512/1800 seconds
+[14:14:41] Sample #166
+  IAQ: 98.4 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 711.3 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 515/1800 seconds
+[14:14:44] Sample #167
+  IAQ: 98.4 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 711.6 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 518/1800 seconds
+[14:14:47] Sample #168
+  IAQ: 98.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.5%
+  CO2: 711.2 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 521/1800 seconds
+[14:14:50] Sample #169
+  IAQ: 98.2 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.5%
+  CO2: 710.6 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 524/1800 seconds
+[14:14:53] Sample #170
+  IAQ: 96.2 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 702.0 ppm (acc: 1)
+  bVOC: 0.79 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 527/1800 seconds
+[14:14:56] Sample #171
+  IAQ: 95.9 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 700.4 ppm (acc: 1)
+  bVOC: 0.79 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 530/1800 seconds
+[14:14:59] Sample #172
+  IAQ: 97.5 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 707.6 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 533/1800 seconds
+[14:15:02] Sample #173
+  IAQ: 97.8 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 709.0 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 536/1800 seconds
+[14:15:05] Sample #174
+  IAQ: 97.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 706.5 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 539/1800 seconds
+[14:15:09] Sample #175
+  IAQ: 97.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 706.5 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 543/1800 seconds
+[14:15:12] Sample #176
+  IAQ: 97.6 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.5%
+  CO2: 707.9 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 546/1800 seconds
+[14:15:15] Sample #177
+  IAQ: 98.6 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.6%
+  CO2: 712.4 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 549/1800 seconds
+[14:15:18] Sample #178
+  IAQ: 99.8 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.6%
+  CO2: 717.4 ppm (acc: 1)
+  bVOC: 0.82 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 552/1800 seconds
+[14:15:21] Sample #179
+  IAQ: 98.6 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.5%
+  CO2: 712.2 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 555/1800 seconds
+[14:15:24] Sample #180
+  IAQ: 98.4 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 711.5 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 558/1800 seconds
+[14:15:27] Sample #181
+  IAQ: 96.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 702.1 ppm (acc: 1)
+  bVOC: 0.79 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 561/1800 seconds
+[14:15:30] Sample #182
+  IAQ: 95.2 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.5%
+  CO2: 697.3 ppm (acc: 1)
+  bVOC: 0.78 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 564/1800 seconds
+[14:15:33] Sample #183
+  IAQ: 96.6 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 703.7 ppm (acc: 1)
+  bVOC: 0.79 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 567/1800 seconds
+[14:15:36] Sample #184
+  IAQ: 97.9 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 709.0 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 570/1800 seconds
+[14:15:39] Sample #185
+  IAQ: 98.9 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.1%
+  CO2: 713.6 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 573/1800 seconds
+[14:15:42] Sample #186
+  IAQ: 99.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.0%
+  CO2: 715.4 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 576/1800 seconds
+[14:15:45] Sample #187
+  IAQ: 101.2 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.0%
+  CO2: 723.8 ppm (acc: 1)
+  bVOC: 0.83 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 579/1800 seconds
+[14:15:49] Sample #188
+  IAQ: 101.9 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 726.7 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 583/1800 seconds
+[14:15:52] Sample #189
+  IAQ: 102.9 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 731.3 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 586/1800 seconds
+[14:15:55] Sample #190
+  IAQ: 104.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.1%
+  CO2: 737.3 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 589/1800 seconds
+[14:15:58] Sample #191
+  IAQ: 103.9 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.1%
+  CO2: 735.5 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 592/1800 seconds
+[14:16:01] Sample #192
+  IAQ: 103.2 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.1%
+  CO2: 732.2 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 595/1800 seconds
+[14:16:04] Sample #193
+  IAQ: 102.6 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 729.7 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 598/1800 seconds
+[14:16:07] Sample #194
+  IAQ: 103.7 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 734.6 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 601/1800 seconds
+[14:16:10] Sample #195
+  IAQ: 103.9 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 735.6 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 604/1800 seconds
+[14:16:13] Sample #196
+  IAQ: 104.4 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 737.8 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 607/1800 seconds
+[14:16:16] Sample #197
+  IAQ: 104.7 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.5%
+  CO2: 739.0 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 610/1800 seconds
+[14:16:19] Sample #198
+  IAQ: 105.8 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.5%
+  CO2: 743.8 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 613/1800 seconds
+[14:16:22] Sample #199
+  IAQ: 104.7 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 739.0 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 616/1800 seconds
+[14:16:26] Sample #200
+  IAQ: 102.6 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 730.0 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 620/1800 seconds
+[14:16:29] Sample #201
+  IAQ: 102.8 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 730.7 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 623/1800 seconds
+[14:16:32] Sample #202
+  IAQ: 103.1 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.1%
+  CO2: 732.0 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 626/1800 seconds
+[14:16:35] Sample #203
+  IAQ: 100.9 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.1%
+  CO2: 722.3 ppm (acc: 1)
+  bVOC: 0.83 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 629/1800 seconds
+[14:16:38] Sample #204
+  IAQ: 100.4 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.1%
+  CO2: 720.2 ppm (acc: 1)
+  bVOC: 0.82 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 632/1800 seconds
+[14:16:41] Sample #205
+  IAQ: 100.0 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 718.4 ppm (acc: 1)
+  bVOC: 0.82 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 635/1800 seconds
+[14:16:44] Sample #206
+  IAQ: 102.6 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 730.0 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 638/1800 seconds
+[14:16:47] Sample #207
+  IAQ: 103.4 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 733.5 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 641/1800 seconds
+[14:16:50] Sample #208
+  IAQ: 102.2 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 728.1 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 644/1800 seconds
+[14:16:53] Sample #209
+  IAQ: 104.1 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.0%
+  CO2: 736.2 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 647/1800 seconds
+[14:16:56] Sample #210
+  IAQ: 105.0 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.0%
+  CO2: 740.2 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 650/1800 seconds
+[14:16:59] Sample #211
+  IAQ: 105.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 77.9%
+  CO2: 741.6 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 653/1800 seconds
+[14:17:02] Sample #212
+  IAQ: 106.6 (acc: 1)
+  Temp: 15.1°C, Humidity: 77.9%
+  CO2: 747.5 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 656/1800 seconds
+[14:17:06] Sample #213
+  IAQ: 106.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 77.9%
+  CO2: 745.7 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 660/1800 seconds
+[14:17:09] Sample #214
+  IAQ: 107.5 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.0%
+  CO2: 751.0 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 663/1800 seconds
+[14:17:12] Sample #215
+  IAQ: 105.6 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 742.9 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 666/1800 seconds
+[14:17:15] Sample #216
+  IAQ: 105.7 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 743.3 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 669/1800 seconds
+[14:17:18] Sample #217
+  IAQ: 107.2 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 749.9 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 672/1800 seconds
+[14:17:21] Sample #218
+  IAQ: 107.1 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.5%
+  CO2: 749.3 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 675/1800 seconds
+[14:17:24] Sample #219
+  IAQ: 109.8 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.6%
+  CO2: 761.4 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 678/1800 seconds
+[14:17:27] Sample #220
+  IAQ: 110.2 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.6%
+  CO2: 762.8 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 681/1800 seconds
+[14:17:30] Sample #221
+  IAQ: 109.8 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.6%
+  CO2: 761.3 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 684/1800 seconds
+[14:17:33] Sample #222
+  IAQ: 109.0 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.6%
+  CO2: 757.5 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 687/1800 seconds
+[14:17:36] Sample #223
+  IAQ: 108.4 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.6%
+  CO2: 754.9 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 690/1800 seconds
+[14:17:39] Sample #224
+  IAQ: 106.6 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 747.3 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 693/1800 seconds
+[14:17:43] Sample #225
+  IAQ: 106.1 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 745.1 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 697/1800 seconds
+[14:17:46] Sample #226
+  IAQ: 103.4 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 733.0 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 700/1800 seconds
+[14:17:49] Sample #227
+  IAQ: 103.5 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 733.8 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 703/1800 seconds
+[14:17:52] Sample #228
+  IAQ: 103.7 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 734.5 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 706/1800 seconds
+[14:17:55] Sample #229
+  IAQ: 103.8 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 734.8 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 709/1800 seconds
+[14:17:58] Sample #230
+  IAQ: 103.8 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 734.8 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 712/1800 seconds
+[14:18:01] Sample #231
+  IAQ: 104.8 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 739.5 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 715/1800 seconds
+[14:18:04] Sample #232
+  IAQ: 105.2 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 741.2 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 718/1800 seconds
+[14:18:07] Sample #233
+  IAQ: 105.6 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.1%
+  CO2: 742.9 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 721/1800 seconds
+[14:18:10] Sample #234
+  IAQ: 106.5 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.1%
+  CO2: 746.9 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 724/1800 seconds
+[14:18:13] Sample #235
+  IAQ: 107.6 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 751.8 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 727/1800 seconds
+[14:18:16] Sample #236
+  IAQ: 108.0 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 753.2 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 730/1800 seconds
+[14:18:19] Sample #237
+  IAQ: 106.8 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.1%
+  CO2: 748.0 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 733/1800 seconds
+[14:18:23] Sample #238
+  IAQ: 108.1 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.1%
+  CO2: 753.8 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 737/1800 seconds
+[14:18:26] Sample #239
+  IAQ: 108.5 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 755.5 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 740/1800 seconds
+[14:18:29] Sample #240
+  IAQ: 110.2 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 762.8 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 743/1800 seconds
+[14:18:32] Sample #241
+  IAQ: 110.7 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 765.1 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 746/1800 seconds
+[14:18:35] Sample #242
+  IAQ: 109.5 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.5%
+  CO2: 759.9 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 749/1800 seconds
+[14:18:38] Sample #243
+  IAQ: 107.7 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 751.9 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 752/1800 seconds
+[14:18:41] Sample #244
+  IAQ: 107.9 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 752.9 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 755/1800 seconds
+[14:18:44] Sample #245
+  IAQ: 106.6 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 747.1 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 758/1800 seconds
+[14:18:47] Sample #246
+  IAQ: 105.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 741.6 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 761/1800 seconds
+[14:18:50] Sample #247
+  IAQ: 105.0 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 740.1 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 764/1800 seconds
+[14:18:53] Sample #248
+  IAQ: 105.7 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 743.2 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 767/1800 seconds
+[14:18:56] Sample #249
+  IAQ: 106.0 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 744.8 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 770/1800 seconds
+[14:19:00] Sample #250
+  IAQ: 105.8 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 743.6 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 774/1800 seconds
+[14:19:03] Sample #251
+  IAQ: 108.0 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 753.4 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 777/1800 seconds
+[14:19:06] Sample #252
+  IAQ: 109.6 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 760.4 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 780/1800 seconds
+[14:19:09] Sample #253
+  IAQ: 107.7 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 752.2 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 783/1800 seconds
+[14:19:12] Sample #254
+  IAQ: 109.5 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 759.7 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 786/1800 seconds
+[14:19:15] Sample #255
+  IAQ: 109.1 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 758.3 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 789/1800 seconds
+[14:19:18] Sample #256
+  IAQ: 110.0 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 761.9 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 792/1800 seconds
+[14:19:21] Sample #257
+  IAQ: 110.5 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 764.3 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 795/1800 seconds
+[14:19:24] Sample #258
+  IAQ: 110.9 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 766.0 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 798/1800 seconds
+[14:19:27] Sample #259
+  IAQ: 112.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 772.3 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 801/1800 seconds
+[14:19:30] Sample #260
+  IAQ: 112.9 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 774.9 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 804/1800 seconds
+[14:19:33] Sample #261
+  IAQ: 108.5 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.1%
+  CO2: 755.4 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 807/1800 seconds
+[14:19:37] Sample #262
+  IAQ: 107.9 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 753.0 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 811/1800 seconds
+[14:19:40] Sample #263
+  IAQ: 106.5 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 746.8 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 814/1800 seconds
+[14:19:43] Sample #264
+  IAQ: 107.9 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 753.1 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 817/1800 seconds
+[14:19:46] Sample #265
+  IAQ: 107.9 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 752.9 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 820/1800 seconds
+[14:19:49] Sample #266
+  IAQ: 108.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.5%
+  CO2: 754.5 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 823/1800 seconds
+[14:19:52] Sample #267
+  IAQ: 108.5 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 755.6 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 826/1800 seconds
+[14:19:55] Sample #268
+  IAQ: 108.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 754.8 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 829/1800 seconds
+[14:19:58] Sample #269
+  IAQ: 106.7 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 747.9 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 832/1800 seconds
+[14:20:01] Sample #270
+  IAQ: 104.5 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 738.3 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 835/1800 seconds
+[14:20:04] Sample #271
+  IAQ: 105.5 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 742.5 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 838/1800 seconds
+[14:20:07] Sample #272
+  IAQ: 105.4 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 742.0 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 841/1800 seconds
+[14:20:10] Sample #273
+  IAQ: 106.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 746.1 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 844/1800 seconds
+[14:20:13] Sample #274
+  IAQ: 104.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.1%
+  CO2: 737.0 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 847/1800 seconds
+[14:20:17] Sample #275
+  IAQ: 105.1 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.0%
+  CO2: 740.6 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 851/1800 seconds
+[14:20:20] Sample #276
+  IAQ: 105.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.0%
+  CO2: 741.5 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 854/1800 seconds
+[14:20:23] Sample #277
+  IAQ: 105.9 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.1%
+  CO2: 744.1 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 857/1800 seconds
+[14:20:26] Sample #278
+  IAQ: 106.2 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 745.6 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 860/1800 seconds
+[14:20:29] Sample #279
+  IAQ: 107.4 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 750.5 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 863/1800 seconds
+[14:20:32] Sample #280
+  IAQ: 107.0 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 749.2 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 866/1800 seconds
+[14:20:35] Sample #281
+  IAQ: 108.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 754.5 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 869/1800 seconds
+[14:20:38] Sample #282
+  IAQ: 109.0 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.5%
+  CO2: 757.8 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 872/1800 seconds
+[14:20:41] Sample #283
+  IAQ: 110.0 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.5%
+  CO2: 761.9 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 875/1800 seconds
+[14:20:44] Sample #284
+  IAQ: 106.6 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.5%
+  CO2: 747.3 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 878/1800 seconds
+[14:20:47] Sample #285
+  IAQ: 107.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 750.3 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 881/1800 seconds
+[14:20:50] Sample #286
+  IAQ: 105.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 741.5 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 884/1800 seconds
+[14:20:54] Sample #287
+  IAQ: 105.4 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 742.0 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 888/1800 seconds
+[14:20:57] Sample #288
+  IAQ: 107.0 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 748.9 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 891/1800 seconds
+[14:21:00] Sample #289
+  IAQ: 108.1 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 753.8 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 894/1800 seconds
+[14:21:03] Sample #290
+  IAQ: 108.4 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 755.2 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 897/1800 seconds
+[14:21:06] Sample #291
+  IAQ: 107.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 750.4 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 900/1800 seconds
+[14:21:09] Sample #292
+  IAQ: 109.1 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.2%
+  CO2: 758.1 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 903/1800 seconds
+[14:21:12] Sample #293
+  IAQ: 111.7 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.3%
+  CO2: 769.4 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 906/1800 seconds
+[14:21:15] Sample #294
+  IAQ: 112.9 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 774.8 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 909/1800 seconds
+[14:21:18] Sample #295
+  IAQ: 111.7 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.5%
+  CO2: 769.4 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 912/1800 seconds
+[14:21:21] Sample #296
+  IAQ: 109.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 761.3 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 915/1800 seconds
+[14:21:24] Sample #297
+  IAQ: 110.4 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.5%
+  CO2: 764.1 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 918/1800 seconds
+[14:21:27] Sample #298
+  IAQ: 109.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.5%
+  CO2: 759.1 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 921/1800 seconds
+[14:21:30] Sample #299
+  IAQ: 108.0 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 753.4 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 924/1800 seconds
+[14:21:34] Sample #300
+  IAQ: 107.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 749.5 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 928/1800 seconds
+[14:21:37] Sample #301
+  IAQ: 105.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 744.4 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 931/1800 seconds
+[14:21:40] Sample #302
+  IAQ: 106.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 745.3 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 934/1800 seconds
+[14:21:43] Sample #303
+  IAQ: 106.8 (acc: 1)
+  Temp: 15.1°C, Humidity: 78.4%
+  CO2: 748.1 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 937/1800 seconds
+[14:21:46] Sample #304
+  IAQ: 107.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 749.9 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 940/1800 seconds
+[14:21:49] Sample #305
+  IAQ: 109.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 759.5 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 943/1800 seconds
+[14:21:52] Sample #306
+  IAQ: 108.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 757.3 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 946/1800 seconds
+[14:21:55] Sample #307
+  IAQ: 107.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 749.2 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 949/1800 seconds
+[14:21:58] Sample #308
+  IAQ: 106.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 748.2 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 952/1800 seconds
+[14:22:01] Sample #309
+  IAQ: 107.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 749.3 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 955/1800 seconds
+[14:22:04] Sample #310
+  IAQ: 106.3 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 745.8 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 958/1800 seconds
+[14:22:07] Sample #311
+  IAQ: 106.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 745.4 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 961/1800 seconds
+[14:22:11] Sample #312
+  IAQ: 102.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 730.0 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 965/1800 seconds
+[14:22:14] Sample #313
+  IAQ: 103.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 734.5 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 968/1800 seconds
+[14:22:17] Sample #314
+  IAQ: 103.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 733.4 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 971/1800 seconds
+[14:22:20] Sample #315
+  IAQ: 102.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 728.7 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 974/1800 seconds
+[14:22:23] Sample #316
+  IAQ: 102.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 728.1 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 977/1800 seconds
+[14:22:26] Sample #317
+  IAQ: 103.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 734.5 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 980/1800 seconds
+[14:22:29] Sample #318
+  IAQ: 104.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 736.7 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 983/1800 seconds
+[14:22:32] Sample #319
+  IAQ: 104.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 738.3 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 986/1800 seconds
+[14:22:35] Sample #320
+  IAQ: 105.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 741.8 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 989/1800 seconds
+[14:22:38] Sample #321
+  IAQ: 103.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 735.4 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 992/1800 seconds
+[14:22:41] Sample #322
+  IAQ: 104.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 739.8 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 995/1800 seconds
+[14:22:44] Sample #323
+  IAQ: 104.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 738.3 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 998/1800 seconds
+[14:22:47] Sample #324
+  IAQ: 102.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 731.0 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1001/1800 seconds
+[14:22:51] Sample #325
+  IAQ: 104.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 739.1 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1005/1800 seconds
+[14:22:54] Sample #326
+  IAQ: 104.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 738.3 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1008/1800 seconds
+[14:22:57] Sample #327
+  IAQ: 103.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 735.5 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1011/1800 seconds
+[14:23:00] Sample #328
+  IAQ: 104.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 738.3 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1014/1800 seconds
+[14:23:03] Sample #329
+  IAQ: 104.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 736.1 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1017/1800 seconds
+[14:23:06] Sample #330
+  IAQ: 104.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 737.0 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1020/1800 seconds
+[14:23:09] Sample #331
+  IAQ: 101.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 726.8 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1023/1800 seconds
+[14:23:12] Sample #332
+  IAQ: 102.3 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 728.5 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1026/1800 seconds
+[14:23:15] Sample #333
+  IAQ: 101.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 723.8 ppm (acc: 1)
+  bVOC: 0.83 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1029/1800 seconds
+[14:23:18] Sample #334
+  IAQ: 100.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 719.2 ppm (acc: 1)
+  bVOC: 0.82 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1032/1800 seconds
+[14:23:21] Sample #335
+  IAQ: 101.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 723.2 ppm (acc: 1)
+  bVOC: 0.83 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1035/1800 seconds
+[14:23:24] Sample #336
+  IAQ: 103.3 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 732.9 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1038/1800 seconds
+[14:23:28] Sample #337
+  IAQ: 104.3 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 737.1 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1042/1800 seconds
+[14:23:31] Sample #338
+  IAQ: 105.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 744.0 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1045/1800 seconds
+[14:23:34] Sample #339
+  IAQ: 106.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 748.6 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1048/1800 seconds
+[14:23:37] Sample #340
+  IAQ: 107.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 751.7 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1051/1800 seconds
+[14:23:40] Sample #341
+  IAQ: 106.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 747.3 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1054/1800 seconds
+[14:23:43] Sample #342
+  IAQ: 105.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 742.8 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1057/1800 seconds
+[14:23:46] Sample #343
+  IAQ: 104.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 736.7 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1060/1800 seconds
+[14:23:49] Sample #344
+  IAQ: 102.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.0%
+  CO2: 729.1 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1063/1800 seconds
+[14:23:52] Sample #345
+  IAQ: 99.3 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.0%
+  CO2: 715.5 ppm (acc: 1)
+  bVOC: 0.82 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1066/1800 seconds
+[14:23:55] Sample #346
+  IAQ: 101.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 725.9 ppm (acc: 1)
+  bVOC: 0.83 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1069/1800 seconds
+[14:23:58] Sample #347
+  IAQ: 101.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 723.9 ppm (acc: 1)
+  bVOC: 0.83 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1072/1800 seconds
+[14:24:01] Sample #348
+  IAQ: 102.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 728.8 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1075/1800 seconds
+[14:24:04] Sample #349
+  IAQ: 102.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 727.6 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1078/1800 seconds
+[14:24:08] Sample #350
+  IAQ: 103.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 733.5 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1082/1800 seconds
+[14:24:11] Sample #351
+  IAQ: 103.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 733.4 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1085/1800 seconds
+[14:24:14] Sample #352
+  IAQ: 103.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 733.8 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1088/1800 seconds
+[14:24:17] Sample #353
+  IAQ: 103.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 732.4 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1091/1800 seconds
+[14:24:20] Sample #354
+  IAQ: 104.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 738.8 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1094/1800 seconds
+[14:24:23] Sample #355
+  IAQ: 104.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 739.3 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1097/1800 seconds
+[14:24:26] Sample #356
+  IAQ: 106.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 746.4 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1100/1800 seconds
+[14:24:29] Sample #357
+  IAQ: 106.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 746.3 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1103/1800 seconds
+[14:24:32] Sample #358
+  IAQ: 106.3 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 745.8 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1106/1800 seconds
+[14:24:35] Sample #359
+  IAQ: 108.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 754.1 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1109/1800 seconds
+[14:24:38] Sample #360
+  IAQ: 109.0 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 757.5 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1112/1800 seconds
+[14:24:41] Sample #361
+  IAQ: 108.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 753.7 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1115/1800 seconds
+[14:24:45] Sample #362
+  IAQ: 109.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 758.4 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1119/1800 seconds
+[14:24:48] Sample #363
+  IAQ: 109.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 759.4 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1122/1800 seconds
+[14:24:51] Sample #364
+  IAQ: 109.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 759.7 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1125/1800 seconds
+[14:24:54] Sample #365
+  IAQ: 109.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 759.4 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1128/1800 seconds
+[14:24:57] Sample #366
+  IAQ: 110.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 763.7 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1131/1800 seconds
+[14:25:00] Sample #367
+  IAQ: 108.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 755.7 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1134/1800 seconds
+[14:25:03] Sample #368
+  IAQ: 109.3 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 759.1 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1137/1800 seconds
+[14:25:06] Sample #369
+  IAQ: 110.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 764.4 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1140/1800 seconds
+[14:25:09] Sample #370
+  IAQ: 109.0 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 757.9 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1143/1800 seconds
+[14:25:12] Sample #371
+  IAQ: 111.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 767.1 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1146/1800 seconds
+[14:25:15] Sample #372
+  IAQ: 112.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 771.1 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1149/1800 seconds
+[14:25:18] Sample #373
+  IAQ: 112.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 774.3 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1152/1800 seconds
+[14:25:22] Sample #374
+  IAQ: 113.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 778.7 ppm (acc: 1)
+  bVOC: 0.94 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1156/1800 seconds
+[14:25:25] Sample #375
+  IAQ: 116.0 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 788.3 ppm (acc: 1)
+  bVOC: 0.96 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1159/1800 seconds
+[14:25:28] Sample #376
+  IAQ: 117.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 794.8 ppm (acc: 1)
+  bVOC: 0.98 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1162/1800 seconds
+[14:25:31] Sample #377
+  IAQ: 118.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 797.3 ppm (acc: 1)
+  bVOC: 0.98 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1165/1800 seconds
+[14:25:34] Sample #378
+  IAQ: 117.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 794.9 ppm (acc: 1)
+  bVOC: 0.98 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1168/1800 seconds
+[14:25:37] Sample #379
+  IAQ: 117.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 795.4 ppm (acc: 1)
+  bVOC: 0.98 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1171/1800 seconds
+[14:25:40] Sample #380
+  IAQ: 117.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 793.5 ppm (acc: 1)
+  bVOC: 0.97 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1174/1800 seconds
+[14:25:43] Sample #381
+  IAQ: 116.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 791.9 ppm (acc: 1)
+  bVOC: 0.97 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1177/1800 seconds
+[14:25:46] Sample #382
+  IAQ: 117.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 794.8 ppm (acc: 1)
+  bVOC: 0.98 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1180/1800 seconds
+[14:25:49] Sample #383
+  IAQ: 117.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 794.5 ppm (acc: 1)
+  bVOC: 0.98 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1183/1800 seconds
+[14:25:52] Sample #384
+  IAQ: 117.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 794.3 ppm (acc: 1)
+  bVOC: 0.97 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1186/1800 seconds
+[14:25:55] Sample #385
+  IAQ: 115.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 787.3 ppm (acc: 1)
+  bVOC: 0.96 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1189/1800 seconds
+[14:25:58] Sample #386
+  IAQ: 114.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 780.3 ppm (acc: 1)
+  bVOC: 0.94 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1192/1800 seconds
+[14:26:02] Sample #387
+  IAQ: 114.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 782.4 ppm (acc: 1)
+  bVOC: 0.95 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1196/1800 seconds
+[14:26:05] Sample #388
+  IAQ: 113.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 777.5 ppm (acc: 1)
+  bVOC: 0.94 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1199/1800 seconds
+[14:26:08] Sample #389
+  IAQ: 111.3 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 768.0 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1202/1800 seconds
+[14:26:11] Sample #390
+  IAQ: 110.0 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 761.9 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1205/1800 seconds
+[14:26:14] Sample #391
+  IAQ: 110.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 764.2 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1208/1800 seconds
+[14:26:17] Sample #392
+  IAQ: 110.3 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 763.3 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1211/1800 seconds
+[14:26:20] Sample #393
+  IAQ: 110.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 765.2 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1214/1800 seconds
+[14:26:23] Sample #394
+  IAQ: 109.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 759.8 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1217/1800 seconds
+[14:26:26] Sample #395
+  IAQ: 111.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 766.9 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1220/1800 seconds
+[14:26:29] Sample #396
+  IAQ: 112.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 771.7 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1223/1800 seconds
+[14:26:32] Sample #397
+  IAQ: 111.0 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 766.5 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1226/1800 seconds
+[14:26:35] Sample #398
+  IAQ: 110.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 764.0 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1229/1800 seconds
+[14:26:39] Sample #399
+  IAQ: 109.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 758.5 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1233/1800 seconds
+[14:26:42] Sample #400
+  IAQ: 108.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 757.1 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1236/1800 seconds
+[14:26:45] Sample #401
+  IAQ: 107.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 749.3 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1239/1800 seconds
+[14:26:48] Sample #402
+  IAQ: 106.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 746.2 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1242/1800 seconds
+[14:26:51] Sample #403
+  IAQ: 106.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 747.0 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1245/1800 seconds
+[14:26:54] Sample #404
+  IAQ: 105.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 743.8 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1248/1800 seconds
+[14:26:57] Sample #405
+  IAQ: 106.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.0%
+  CO2: 748.7 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1251/1800 seconds
+[14:27:00] Sample #406
+  IAQ: 106.3 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.0%
+  CO2: 745.8 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1254/1800 seconds
+[14:27:03] Sample #407
+  IAQ: 108.0 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.0%
+  CO2: 753.2 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1257/1800 seconds
+[14:27:06] Sample #408
+  IAQ: 108.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.0%
+  CO2: 754.2 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1260/1800 seconds
+[14:27:09] Sample #409
+  IAQ: 109.3 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 758.9 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1263/1800 seconds
+[14:27:12] Sample #410
+  IAQ: 110.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 765.9 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1266/1800 seconds
+[14:27:15] Sample #411
+  IAQ: 110.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 765.8 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1269/1800 seconds
+[14:27:19] Sample #412
+  IAQ: 110.3 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 763.2 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1273/1800 seconds
+[14:27:22] Sample #413
+  IAQ: 110.3 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 763.3 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1276/1800 seconds
+[14:27:25] Sample #414
+  IAQ: 109.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 760.8 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1279/1800 seconds
+[14:27:28] Sample #415
+  IAQ: 110.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 763.1 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1282/1800 seconds
+[14:27:31] Sample #416
+  IAQ: 109.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 760.6 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1285/1800 seconds
+[14:27:34] Sample #417
+  IAQ: 107.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 752.8 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1288/1800 seconds
+[14:27:37] Sample #418
+  IAQ: 107.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 749.9 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1291/1800 seconds
+[14:27:40] Sample #419
+  IAQ: 105.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 743.0 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1294/1800 seconds
+[14:27:43] Sample #420
+  IAQ: 107.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 751.1 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1297/1800 seconds
+[14:27:46] Sample #421
+  IAQ: 108.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 754.2 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1300/1800 seconds
+[14:27:49] Sample #422
+  IAQ: 110.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 762.7 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1303/1800 seconds
+[14:27:52] Sample #423
+  IAQ: 110.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 764.2 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1306/1800 seconds
+[14:27:56] Sample #424
+  IAQ: 110.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 763.2 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1310/1800 seconds
+[14:27:59] Sample #425
+  IAQ: 108.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 755.9 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1313/1800 seconds
+[14:28:02] Sample #426
+  IAQ: 105.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 741.9 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1316/1800 seconds
+[14:28:05] Sample #427
+  IAQ: 107.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 752.2 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1319/1800 seconds
+[14:28:08] Sample #428
+  IAQ: 106.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 746.4 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1322/1800 seconds
+[14:28:11] Sample #429
+  IAQ: 106.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 744.8 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1325/1800 seconds
+[14:28:14] Sample #430
+  IAQ: 107.0 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 748.8 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1328/1800 seconds
+[14:28:17] Sample #431
+  IAQ: 107.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 749.7 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1331/1800 seconds
+[14:28:20] Sample #432
+  IAQ: 107.0 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.0%
+  CO2: 749.1 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1334/1800 seconds
+[14:28:23] Sample #433
+  IAQ: 107.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.0%
+  CO2: 749.4 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1337/1800 seconds
+[14:28:26] Sample #434
+  IAQ: 107.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.9%
+  CO2: 752.5 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1340/1800 seconds
+[14:28:29] Sample #435
+  IAQ: 107.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.0%
+  CO2: 752.9 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1343/1800 seconds
+[14:28:32] Sample #436
+  IAQ: 109.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 761.4 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1346/1800 seconds
+[14:28:36] Sample #437
+  IAQ: 109.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 758.5 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1350/1800 seconds
+[14:28:39] Sample #438
+  IAQ: 112.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 772.4 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1353/1800 seconds
+[14:28:42] Sample #439
+  IAQ: 111.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 769.4 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1356/1800 seconds
+[14:28:45] Sample #440
+  IAQ: 111.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 767.3 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1359/1800 seconds
+[14:28:48] Sample #441
+  IAQ: 111.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 768.0 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1362/1800 seconds
+[14:28:51] Sample #442
+  IAQ: 111.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 768.2 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1365/1800 seconds
+[14:28:54] Sample #443
+  IAQ: 110.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 764.3 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1368/1800 seconds
+[14:28:57] Sample #444
+  IAQ: 110.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 765.7 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1371/1800 seconds
+[14:29:00] Sample #445
+  IAQ: 108.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 755.6 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1374/1800 seconds
+[14:29:03] Sample #446
+  IAQ: 108.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 755.4 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1377/1800 seconds
+[14:29:06] Sample #447
+  IAQ: 109.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 761.4 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1380/1800 seconds
+[14:29:09] Sample #448
+  IAQ: 110.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 763.1 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1383/1800 seconds
+[14:29:13] Sample #449
+  IAQ: 111.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 768.7 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1387/1800 seconds
+[14:29:16] Sample #450
+  IAQ: 109.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 761.8 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1390/1800 seconds
+[14:29:19] Sample #451
+  IAQ: 109.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 761.4 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1393/1800 seconds
+[14:29:22] Sample #452
+  IAQ: 109.3 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 759.0 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1396/1800 seconds
+[14:29:25] Sample #453
+  IAQ: 110.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 762.5 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1399/1800 seconds
+[14:29:28] Sample #454
+  IAQ: 110.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 762.6 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1402/1800 seconds
+[14:29:31] Sample #455
+  IAQ: 112.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 773.1 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1405/1800 seconds
+[14:29:34] Sample #456
+  IAQ: 111.0 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 766.6 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1408/1800 seconds
+[14:29:37] Sample #457
+  IAQ: 111.0 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 766.3 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1411/1800 seconds
+[14:29:40] Sample #458
+  IAQ: 110.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 766.1 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1414/1800 seconds
+[14:29:43] Sample #459
+  IAQ: 111.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 770.3 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1417/1800 seconds
+[14:29:46] Sample #460
+  IAQ: 114.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 779.9 ppm (acc: 1)
+  bVOC: 0.94 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1420/1800 seconds
+[14:29:49] Sample #461
+  IAQ: 113.0 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 775.4 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1423/1800 seconds
+[14:29:53] Sample #462
+  IAQ: 112.3 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 772.3 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1427/1800 seconds
+[14:29:56] Sample #463
+  IAQ: 110.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 766.2 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1430/1800 seconds
+[14:29:59] Sample #464
+  IAQ: 109.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 758.3 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1433/1800 seconds
+[14:30:02] Sample #465
+  IAQ: 110.0 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 762.2 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1436/1800 seconds
+[14:30:05] Sample #466
+  IAQ: 110.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 765.1 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1439/1800 seconds
+[14:30:08] Sample #467
+  IAQ: 113.0 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 775.4 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1442/1800 seconds
+[14:30:11] Sample #468
+  IAQ: 113.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 777.6 ppm (acc: 1)
+  bVOC: 0.94 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1445/1800 seconds
+[14:30:14] Sample #469
+  IAQ: 114.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 781.3 ppm (acc: 1)
+  bVOC: 0.95 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1448/1800 seconds
+[14:30:17] Sample #470
+  IAQ: 114.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 781.8 ppm (acc: 1)
+  bVOC: 0.95 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1451/1800 seconds
+[14:30:20] Sample #471
+  IAQ: 113.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 776.2 ppm (acc: 1)
+  bVOC: 0.94 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1454/1800 seconds
+[14:30:23] Sample #472
+  IAQ: 110.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 766.0 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1457/1800 seconds
+[14:30:26] Sample #473
+  IAQ: 112.3 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 772.2 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1460/1800 seconds
+[14:30:30] Sample #474
+  IAQ: 112.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 774.1 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1464/1800 seconds
+[14:30:33] Sample #475
+  IAQ: 113.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 775.6 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1467/1800 seconds
+[14:30:36] Sample #476
+  IAQ: 113.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 779.3 ppm (acc: 1)
+  bVOC: 0.94 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1470/1800 seconds
+[14:30:39] Sample #477
+  IAQ: 115.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 784.2 ppm (acc: 1)
+  bVOC: 0.95 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1473/1800 seconds
+[14:30:42] Sample #478
+  IAQ: 113.3 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 776.4 ppm (acc: 1)
+  bVOC: 0.94 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1476/1800 seconds
+[14:30:45] Sample #479
+  IAQ: 109.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 759.9 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1479/1800 seconds
+[14:30:48] Sample #480
+  IAQ: 109.3 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 759.1 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1482/1800 seconds
+[14:30:51] Sample #481
+  IAQ: 108.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 754.3 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1485/1800 seconds
+[14:30:54] Sample #482
+  IAQ: 109.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 759.6 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1488/1800 seconds
+[14:30:57] Sample #483
+  IAQ: 110.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 762.7 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1491/1800 seconds
+[14:31:00] Sample #484
+  IAQ: 110.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 764.8 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1494/1800 seconds
+[14:31:03] Sample #485
+  IAQ: 109.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 759.4 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1497/1800 seconds
+[14:31:07] Sample #486
+  IAQ: 108.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 755.5 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1500/1800 seconds
+[14:31:10] Sample #487
+  IAQ: 108.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.5%
+  CO2: 756.9 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1504/1800 seconds
+[14:31:13] Sample #488
+  IAQ: 107.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 751.5 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1507/1800 seconds
+[14:31:16] Sample #489
+  IAQ: 107.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 750.6 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1510/1800 seconds
+[14:31:19] Sample #490
+  IAQ: 106.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 748.5 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1513/1800 seconds
+[14:31:22] Sample #491
+  IAQ: 106.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 747.6 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1516/1800 seconds
+[14:31:25] Sample #492
+  IAQ: 107.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 749.4 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1519/1800 seconds
+[14:31:28] Sample #493
+  IAQ: 107.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 752.3 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1522/1800 seconds
+[14:31:31] Sample #494
+  IAQ: 107.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 749.8 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1525/1800 seconds
+[14:31:34] Sample #495
+  IAQ: 107.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 752.0 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1528/1800 seconds
+[14:31:37] Sample #496
+  IAQ: 110.0 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 762.2 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1531/1800 seconds
+[14:31:40] Sample #497
+  IAQ: 110.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 764.7 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1534/1800 seconds
+[14:31:43] Sample #498
+  IAQ: 111.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.4%
+  CO2: 768.8 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1537/1800 seconds
+[14:31:47] Sample #499
+  IAQ: 111.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 767.5 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1541/1800 seconds
+[14:31:50] Sample #500
+  IAQ: 111.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 769.1 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1544/1800 seconds
+[14:31:53] Sample #501
+  IAQ: 111.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 770.3 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1547/1800 seconds
+[14:31:56] Sample #502
+  IAQ: 113.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 777.8 ppm (acc: 1)
+  bVOC: 0.94 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1550/1800 seconds
+[14:31:59] Sample #503
+  IAQ: 112.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 774.1 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1553/1800 seconds
+[14:32:02] Sample #504
+  IAQ: 114.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 780.7 ppm (acc: 1)
+  bVOC: 0.94 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1556/1800 seconds
+[14:32:05] Sample #505
+  IAQ: 113.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 776.8 ppm (acc: 1)
+  bVOC: 0.94 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1559/1800 seconds
+[14:32:08] Sample #506
+  IAQ: 113.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 777.1 ppm (acc: 1)
+  bVOC: 0.94 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1562/1800 seconds
+[14:32:11] Sample #507
+  IAQ: 113.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 775.4 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1565/1800 seconds
+[14:32:14] Sample #508
+  IAQ: 112.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 774.4 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1568/1800 seconds
+[14:32:17] Sample #509
+  IAQ: 114.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 782.8 ppm (acc: 1)
+  bVOC: 0.95 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1571/1800 seconds
+[14:32:20] Sample #510
+  IAQ: 115.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.0%
+  CO2: 784.8 ppm (acc: 1)
+  bVOC: 0.95 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1574/1800 seconds
+[14:32:24] Sample #511
+  IAQ: 115.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.0%
+  CO2: 784.7 ppm (acc: 1)
+  bVOC: 0.95 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1578/1800 seconds
+[14:32:27] Sample #512
+  IAQ: 116.3 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.0%
+  CO2: 789.5 ppm (acc: 1)
+  bVOC: 0.96 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1581/1800 seconds
+[14:32:30] Sample #513
+  IAQ: 117.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.0%
+  CO2: 793.1 ppm (acc: 1)
+  bVOC: 0.97 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1584/1800 seconds
+[14:32:33] Sample #514
+  IAQ: 118.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.2%
+  CO2: 799.2 ppm (acc: 1)
+  bVOC: 0.99 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1587/1800 seconds
+[14:32:36] Sample #515
+  IAQ: 119.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 805.3 ppm (acc: 1)
+  bVOC: 1.00 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1590/1800 seconds
+[14:32:39] Sample #516
+  IAQ: 118.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.3%
+  CO2: 800.4 ppm (acc: 1)
+  bVOC: 0.99 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1593/1800 seconds
+[14:32:42] Sample #517
+  IAQ: 118.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 801.2 ppm (acc: 1)
+  bVOC: 0.99 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1596/1800 seconds
+[14:32:45] Sample #518
+  IAQ: 118.0 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 796.9 ppm (acc: 1)
+  bVOC: 0.98 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1599/1800 seconds
+[14:32:48] Sample #519
+  IAQ: 115.8 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 787.5 ppm (acc: 1)
+  bVOC: 0.96 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1602/1800 seconds
+[14:32:51] Sample #520
+  IAQ: 114.8 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 782.9 ppm (acc: 1)
+  bVOC: 0.95 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1605/1800 seconds
+[14:32:54] Sample #521
+  IAQ: 115.0 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 783.9 ppm (acc: 1)
+  bVOC: 0.95 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1608/1800 seconds
+[14:32:57] Sample #522
+  IAQ: 113.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 778.0 ppm (acc: 1)
+  bVOC: 0.94 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1611/1800 seconds
+[14:33:00] Sample #523
+  IAQ: 113.3 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 776.7 ppm (acc: 1)
+  bVOC: 0.94 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1614/1800 seconds
+[14:33:04] Sample #524
+  IAQ: 112.7 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 773.7 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1618/1800 seconds
+[14:33:07] Sample #525
+  IAQ: 112.7 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 773.8 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1621/1800 seconds
+[14:33:10] Sample #526
+  IAQ: 112.7 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 773.9 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1624/1800 seconds
+[14:33:13] Sample #527
+  IAQ: 112.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 773.7 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1627/1800 seconds
+[14:33:16] Sample #528
+  IAQ: 113.7 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 778.1 ppm (acc: 1)
+  bVOC: 0.94 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1630/1800 seconds
+[14:33:19] Sample #529
+  IAQ: 112.4 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 772.4 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1633/1800 seconds
+[14:33:22] Sample #530
+  IAQ: 109.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 761.6 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1636/1800 seconds
+[14:33:25] Sample #531
+  IAQ: 109.1 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 758.4 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1639/1800 seconds
+[14:33:28] Sample #532
+  IAQ: 108.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 756.0 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1642/1800 seconds
+[14:33:31] Sample #533
+  IAQ: 107.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 749.7 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1645/1800 seconds
+[14:33:34] Sample #534
+  IAQ: 105.1 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 740.8 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1648/1800 seconds
+[14:33:37] Sample #535
+  IAQ: 104.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 736.8 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1651/1800 seconds
+[14:33:41] Sample #536
+  IAQ: 104.1 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 736.4 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1655/1800 seconds
+[14:33:44] Sample #537
+  IAQ: 103.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 734.1 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1658/1800 seconds
+[14:33:47] Sample #538
+  IAQ: 105.3 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 741.7 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1661/1800 seconds
+[14:33:50] Sample #539
+  IAQ: 107.1 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 749.4 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1664/1800 seconds
+[14:33:53] Sample #540
+  IAQ: 105.8 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 743.8 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1667/1800 seconds
+[14:33:56] Sample #541
+  IAQ: 105.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 744.3 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1670/1800 seconds
+[14:33:59] Sample #542
+  IAQ: 106.0 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 744.5 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1673/1800 seconds
+[14:34:02] Sample #543
+  IAQ: 105.1 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 740.6 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1676/1800 seconds
+[14:34:05] Sample #544
+  IAQ: 105.7 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 743.1 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1679/1800 seconds
+[14:34:08] Sample #545
+  IAQ: 107.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 749.8 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1682/1800 seconds
+[14:34:11] Sample #546
+  IAQ: 109.7 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 760.7 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1685/1800 seconds
+[14:34:14] Sample #547
+  IAQ: 110.4 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 763.6 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1688/1800 seconds
+[14:34:17] Sample #548
+  IAQ: 112.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 771.8 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1691/1800 seconds
+[14:34:21] Sample #549
+  IAQ: 112.5 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 772.9 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1695/1800 seconds
+[14:34:24] Sample #550
+  IAQ: 112.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 773.5 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1698/1800 seconds
+[14:34:27] Sample #551
+  IAQ: 110.7 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 765.3 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1701/1800 seconds
+[14:34:30] Sample #552
+  IAQ: 110.5 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 764.1 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1704/1800 seconds
+[14:34:33] Sample #553
+  IAQ: 109.8 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 761.1 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1707/1800 seconds
+[14:34:36] Sample #554
+  IAQ: 108.3 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 754.7 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1710/1800 seconds
+[14:34:39] Sample #555
+  IAQ: 107.8 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 752.4 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1713/1800 seconds
+[14:34:42] Sample #556
+  IAQ: 106.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 748.6 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1716/1800 seconds
+[14:34:45] Sample #557
+  IAQ: 103.4 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 733.2 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1719/1800 seconds
+[14:34:48] Sample #558
+  IAQ: 103.1 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 731.9 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1722/1800 seconds
+[14:34:51] Sample #559
+  IAQ: 103.0 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 731.5 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1725/1800 seconds
+[14:34:54] Sample #560
+  IAQ: 104.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.0%
+  CO2: 738.7 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1728/1800 seconds
+[14:34:58] Sample #561
+  IAQ: 105.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.0%
+  CO2: 744.2 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1732/1800 seconds
+[14:35:01] Sample #562
+  IAQ: 107.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.0%
+  CO2: 752.9 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1735/1800 seconds
+[14:35:04] Sample #563
+  IAQ: 109.3 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.0%
+  CO2: 759.2 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1738/1800 seconds
+[14:35:07] Sample #564
+  IAQ: 110.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.0%
+  CO2: 766.0 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1741/1800 seconds
+[14:35:10] Sample #565
+  IAQ: 114.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 783.7 ppm (acc: 1)
+  bVOC: 0.95 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1744/1800 seconds
+[14:35:13] Sample #566
+  IAQ: 116.8 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 791.7 ppm (acc: 1)
+  bVOC: 0.97 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1747/1800 seconds
+[14:35:16] Sample #567
+  IAQ: 117.1 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 793.0 ppm (acc: 1)
+  bVOC: 0.97 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1750/1800 seconds
+[14:35:19] Sample #568
+  IAQ: 120.3 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 806.9 ppm (acc: 1)
+  bVOC: 1.00 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1753/1800 seconds
+[14:35:22] Sample #569
+  IAQ: 119.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 805.4 ppm (acc: 1)
+  bVOC: 1.00 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1756/1800 seconds
+[14:35:25] Sample #570
+  IAQ: 119.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 802.4 ppm (acc: 1)
+  bVOC: 0.99 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1759/1800 seconds
+[14:35:28] Sample #571
+  IAQ: 120.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 806.5 ppm (acc: 1)
+  bVOC: 1.00 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1762/1800 seconds
+[14:35:31] Sample #572
+  IAQ: 120.3 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 807.1 ppm (acc: 1)
+  bVOC: 1.00 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1765/1800 seconds
+[14:35:34] Sample #573
+  IAQ: 118.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 800.9 ppm (acc: 1)
+  bVOC: 0.99 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1768/1800 seconds
+[14:35:38] Sample #574
+  IAQ: 117.8 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 796.3 ppm (acc: 1)
+  bVOC: 0.98 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1772/1800 seconds
+[14:35:41] Sample #575
+  IAQ: 118.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 799.6 ppm (acc: 1)
+  bVOC: 0.99 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1775/1800 seconds
+[14:35:44] Sample #576
+  IAQ: 115.5 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 786.3 ppm (acc: 1)
+  bVOC: 0.96 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1778/1800 seconds
+[14:35:47] Sample #577
+  IAQ: 115.4 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 785.5 ppm (acc: 1)
+  bVOC: 0.96 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1781/1800 seconds
+[14:35:50] Sample #578
+  IAQ: 113.1 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.5%
+  CO2: 775.8 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1784/1800 seconds
+[14:35:53] Sample #579
+  IAQ: 111.1 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 766.8 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1787/1800 seconds
+[14:35:56] Sample #580
+  IAQ: 110.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 762.8 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1790/1800 seconds
+[14:35:59] Sample #581
+  IAQ: 107.0 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 749.0 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1793/1800 seconds
+[14:36:02] Sample #582
+  IAQ: 107.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 752.9 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1796/1800 seconds
+[14:36:05] Sample #583
+  IAQ: 105.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 743.0 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration in progress - elapsed: 1799/1800 seconds
+[14:36:08] Sample #584
+  IAQ: 103.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 734.1 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[TVOC] Calibration complete at 1766327771 - baseline adaptation disabled after 1802 seconds
+[14:36:11] Sample #585
+  IAQ: 105.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 741.2 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:36:15] Sample #586
+  IAQ: 105.3 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 741.7 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:36:18] Sample #587
+  IAQ: 106.4 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 746.4 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:36:21] Sample #588
+  IAQ: 108.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 756.1 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:36:24] Sample #589
+  IAQ: 109.5 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 760.0 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:36:27] Sample #590
+  IAQ: 109.1 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 758.3 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:36:30] Sample #591
+  IAQ: 107.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 751.5 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:36:33] Sample #592
+  IAQ: 106.7 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 747.5 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:36:36] Sample #593
+  IAQ: 105.7 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 743.2 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:36:39] Sample #594
+  IAQ: 106.1 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 744.9 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:36:42] Sample #595
+  IAQ: 107.3 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 750.1 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:36:45] Sample #596
+  IAQ: 107.5 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 751.2 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:36:48] Sample #597
+  IAQ: 107.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 749.7 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:36:51] Sample #598
+  IAQ: 105.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 744.2 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:36:55] Sample #599
+  IAQ: 105.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 742.8 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:36:58] Sample #600
+  IAQ: 105.8 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 743.7 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:37:01] Sample #601
+  IAQ: 105.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 744.3 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:37:04] Sample #602
+  IAQ: 105.0 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 740.2 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:37:07] Sample #603
+  IAQ: 104.8 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 739.6 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:37:10] Sample #604
+  IAQ: 104.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 736.8 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:37:13] Sample #605
+  IAQ: 101.8 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 726.1 ppm (acc: 1)
+  bVOC: 0.83 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:37:16] Sample #606
+  IAQ: 102.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 727.9 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:37:19] Sample #607
+  IAQ: 102.5 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 729.4 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:37:22] Sample #608
+  IAQ: 101.8 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 726.5 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:37:25] Sample #609
+  IAQ: 101.0 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 722.7 ppm (acc: 1)
+  bVOC: 0.83 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:37:28] Sample #610
+  IAQ: 101.4 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 724.7 ppm (acc: 1)
+  bVOC: 0.83 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:37:32] Sample #611
+  IAQ: 100.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 719.1 ppm (acc: 1)
+  bVOC: 0.82 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:37:35] Sample #612
+  IAQ: 99.3 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 715.3 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:37:38] Sample #613
+  IAQ: 102.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 730.9 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:37:41] Sample #614
+  IAQ: 104.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 739.9 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:37:44] Sample #615
+  IAQ: 107.4 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 750.6 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:37:47] Sample #616
+  IAQ: 110.0 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 762.2 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:37:50] Sample #617
+  IAQ: 109.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 761.8 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:37:53] Sample #618
+  IAQ: 109.4 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 759.5 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:37:56] Sample #619
+  IAQ: 109.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 760.1 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:37:59] Sample #620
+  IAQ: 109.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 758.6 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:38:02] Sample #621
+  IAQ: 109.1 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 758.0 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:38:05] Sample #622
+  IAQ: 110.0 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 762.3 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:38:08] Sample #623
+  IAQ: 108.7 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 756.5 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:38:12] Sample #624
+  IAQ: 108.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 757.3 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:38:15] Sample #625
+  IAQ: 108.1 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 753.6 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:38:18] Sample #626
+  IAQ: 108.0 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 753.5 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:38:21] Sample #627
+  IAQ: 106.5 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 747.0 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:38:24] Sample #628
+  IAQ: 106.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 745.3 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:38:27] Sample #629
+  IAQ: 105.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.0%
+  CO2: 744.4 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:38:30] Sample #630
+  IAQ: 105.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.0%
+  CO2: 744.2 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:38:33] Sample #631
+  IAQ: 108.1 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.0%
+  CO2: 753.6 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:38:36] Sample #632
+  IAQ: 104.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.0%
+  CO2: 738.3 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:38:39] Sample #633
+  IAQ: 105.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.0%
+  CO2: 741.2 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:38:42] Sample #634
+  IAQ: 106.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 747.5 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:38:45] Sample #635
+  IAQ: 108.1 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 753.6 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:38:49] Sample #636
+  IAQ: 110.0 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 762.2 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:38:52] Sample #637
+  IAQ: 110.8 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 765.7 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:38:55] Sample #638
+  IAQ: 111.8 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 770.0 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:38:58] Sample #639
+  IAQ: 110.5 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 764.1 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:39:01] Sample #640
+  IAQ: 109.0 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 757.7 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:39:04] Sample #641
+  IAQ: 108.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 756.0 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:39:07] Sample #642
+  IAQ: 107.4 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 750.9 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:39:10] Sample #643
+  IAQ: 106.7 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 747.7 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:39:13] Sample #644
+  IAQ: 107.3 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 750.2 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:39:16] Sample #645
+  IAQ: 107.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 751.5 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:39:19] Sample #646
+  IAQ: 109.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 758.6 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:39:22] Sample #647
+  IAQ: 110.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 762.9 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:39:26] Sample #648
+  IAQ: 112.4 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 772.4 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:39:29] Sample #649
+  IAQ: 111.8 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 769.8 ppm (acc: 1)
+  bVOC: 0.92 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:39:32] Sample #650
+  IAQ: 109.3 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 759.1 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:39:35] Sample #651
+  IAQ: 107.5 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 751.3 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:39:38] Sample #652
+  IAQ: 106.3 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 745.8 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:39:41] Sample #653
+  IAQ: 107.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 752.7 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:39:44] Sample #654
+  IAQ: 108.4 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 755.2 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:39:47] Sample #655
+  IAQ: 108.8 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 756.7 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:39:50] Sample #656
+  IAQ: 108.0 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.4%
+  CO2: 753.3 ppm (acc: 1)
+  bVOC: 0.89 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:39:53] Sample #657
+  IAQ: 105.5 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 742.4 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:39:56] Sample #658
+  IAQ: 106.4 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 746.4 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:39:59] Sample #659
+  IAQ: 106.1 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 744.9 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:40:02] Sample #660
+  IAQ: 105.8 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 743.8 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:40:06] Sample #661
+  IAQ: 106.7 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 747.5 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:40:09] Sample #662
+  IAQ: 106.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 745.4 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:40:12] Sample #663
+  IAQ: 107.4 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 750.6 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:40:15] Sample #664
+  IAQ: 106.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 747.4 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:40:18] Sample #665
+  IAQ: 106.1 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 745.2 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:40:21] Sample #666
+  IAQ: 103.8 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 735.0 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:40:24] Sample #667
+  IAQ: 103.7 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 734.5 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:40:27] Sample #668
+  IAQ: 101.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.3%
+  CO2: 725.4 ppm (acc: 1)
+  bVOC: 0.83 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:40:30] Sample #669
+  IAQ: 101.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 723.6 ppm (acc: 1)
+  bVOC: 0.83 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:40:33] Sample #670
+  IAQ: 101.5 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.2%
+  CO2: 724.8 ppm (acc: 1)
+  bVOC: 0.83 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:40:36] Sample #671
+  IAQ: 102.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 728.0 ppm (acc: 1)
+  bVOC: 0.84 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:40:39] Sample #672
+  IAQ: 103.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 732.5 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:40:43] Sample #673
+  IAQ: 105.0 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 740.1 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:40:46] Sample #674
+  IAQ: 105.1 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 740.7 ppm (acc: 1)
+  bVOC: 0.86 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:40:49] Sample #675
+  IAQ: 107.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 749.9 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:40:52] Sample #676
+  IAQ: 107.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 751.5 ppm (acc: 1)
+  bVOC: 0.88 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:40:55] Sample #677
+  IAQ: 110.4 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 763.6 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:40:58] Sample #678
+  IAQ: 110.7 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 765.1 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:41:01] Sample #679
+  IAQ: 110.9 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.1%
+  CO2: 766.2 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:41:04] Sample #680
+  IAQ: 112.6 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.0%
+  CO2: 773.5 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:41:07] Sample #681
+  IAQ: 114.2 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.0%
+  CO2: 780.7 ppm (acc: 1)
+  bVOC: 0.94 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:41:10] Sample #682
+  IAQ: 115.8 (acc: 1)
+  Temp: 14.9°C, Humidity: 78.0%
+  CO2: 787.6 ppm (acc: 1)
+  bVOC: 0.96 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:41:13] Sample #683
+  IAQ: 116.0 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.9%
+  CO2: 788.1 ppm (acc: 1)
+  bVOC: 0.96 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:41:16] Sample #684
+  IAQ: 118.0 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.9%
+  CO2: 797.0 ppm (acc: 1)
+  bVOC: 0.98 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:41:19] Sample #685
+  IAQ: 120.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.9%
+  CO2: 807.7 ppm (acc: 1)
+  bVOC: 1.00 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:41:23] Sample #686
+  IAQ: 120.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.9%
+  CO2: 808.3 ppm (acc: 1)
+  bVOC: 1.01 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:41:26] Sample #687
+  IAQ: 120.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.8%
+  CO2: 808.8 ppm (acc: 1)
+  bVOC: 1.01 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:41:29] Sample #688
+  IAQ: 120.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.9%
+  CO2: 806.6 ppm (acc: 1)
+  bVOC: 1.00 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:41:32] Sample #689
+  IAQ: 118.4 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.8%
+  CO2: 798.7 ppm (acc: 1)
+  bVOC: 0.98 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:41:35] Sample #690
+  IAQ: 118.8 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.7%
+  CO2: 800.4 ppm (acc: 1)
+  bVOC: 0.99 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:41:38] Sample #691
+  IAQ: 118.0 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.7%
+  CO2: 797.2 ppm (acc: 1)
+  bVOC: 0.98 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:41:41] Sample #692
+  IAQ: 119.0 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.7%
+  CO2: 801.4 ppm (acc: 1)
+  bVOC: 0.99 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:41:44] Sample #693
+  IAQ: 118.5 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.8%
+  CO2: 799.4 ppm (acc: 1)
+  bVOC: 0.99 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:41:47] Sample #694
+  IAQ: 117.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.8%
+  CO2: 795.7 ppm (acc: 1)
+  bVOC: 0.98 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:41:50] Sample #695
+  IAQ: 117.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.8%
+  CO2: 795.3 ppm (acc: 1)
+  bVOC: 0.98 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:41:53] Sample #696
+  IAQ: 116.0 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.7%
+  CO2: 788.3 ppm (acc: 1)
+  bVOC: 0.96 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:41:56] Sample #697
+  IAQ: 116.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.9%
+  CO2: 791.5 ppm (acc: 1)
+  bVOC: 0.97 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:42:00] Sample #698
+  IAQ: 114.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.8%
+  CO2: 782.4 ppm (acc: 1)
+  bVOC: 0.95 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:42:03] Sample #699
+  IAQ: 113.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.8%
+  CO2: 775.8 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:42:06] Sample #700
+  IAQ: 112.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.1%
+  CO2: 771.8 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:42:09] Sample #701
+  IAQ: 112.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.9%
+  CO2: 773.7 ppm (acc: 1)
+  bVOC: 0.93 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:42:12] Sample #702
+  IAQ: 110.9 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.9%
+  CO2: 765.9 ppm (acc: 1)
+  bVOC: 0.91 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:42:15] Sample #703
+  IAQ: 109.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.8%
+  CO2: 760.3 ppm (acc: 1)
+  bVOC: 0.90 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:42:18] Sample #704
+  IAQ: 106.1 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.8%
+  CO2: 745.2 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:42:21] Sample #705
+  IAQ: 105.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.8%
+  CO2: 743.2 ppm (acc: 1)
+  bVOC: 0.87 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:42:24] Sample #706
+  IAQ: 103.7 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.9%
+  CO2: 734.7 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:42:27] Sample #707
+  IAQ: 103.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.9%
+  CO2: 732.6 ppm (acc: 1)
+  bVOC: 0.85 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:42:30] Sample #708
+  IAQ: 99.6 (acc: 1)
+  Temp: 15.0°C, Humidity: 78.0%
+  CO2: 716.9 ppm (acc: 1)
+  bVOC: 0.82 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:42:33] Sample #709
+  IAQ: 100.2 (acc: 1)
+  Temp: 15.0°C, Humidity: 77.9%
+  CO2: 719.4 ppm (acc: 1)
+  bVOC: 0.82 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:42:36] Sample #710
+  IAQ: 99.5 (acc: 1)
+  Temp: 15.1°C, Humidity: 77.9%
+  CO2: 716.4 ppm (acc: 1)
+  bVOC: 0.82 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:42:40] Sample #711
+  IAQ: 97.5 (acc: 1)
+  Temp: 15.1°C, Humidity: 77.9%
+  CO2: 707.4 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:42:43] Sample #712
+  IAQ: 98.5 (acc: 1)
+  Temp: 15.1°C, Humidity: 77.8%
+  CO2: 712.0 ppm (acc: 1)
+  bVOC: 0.81 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:42:46] Sample #713
+  IAQ: 97.7 (acc: 1)
+  Temp: 15.1°C, Humidity: 77.8%
+  CO2: 708.3 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:42:49] Sample #714
+  IAQ: 96.4 (acc: 1)
+  Temp: 15.1°C, Humidity: 77.9%
+  CO2: 702.9 ppm (acc: 1)
+  bVOC: 0.79 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:42:52] Sample #715
+  IAQ: 96.4 (acc: 1)
+  Temp: 15.1°C, Humidity: 77.9%
+  CO2: 702.8 ppm (acc: 1)
+  bVOC: 0.79 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:42:55] Sample #716
+  IAQ: 96.4 (acc: 1)
+  Temp: 15.1°C, Humidity: 77.9%
+  CO2: 702.7 ppm (acc: 1)
+  bVOC: 0.79 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:42:58] Sample #717
+  IAQ: 96.3 (acc: 1)
+  Temp: 15.1°C, Humidity: 77.9%
+  CO2: 702.4 ppm (acc: 1)
+  bVOC: 0.79 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:43:01] Sample #718
+  IAQ: 96.7 (acc: 1)
+  Temp: 15.1°C, Humidity: 77.8%
+  CO2: 704.2 ppm (acc: 1)
+  bVOC: 0.79 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:43:04] Sample #719
+  IAQ: 96.9 (acc: 1)
+  Temp: 15.1°C, Humidity: 77.8%
+  CO2: 705.0 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:43:07] Sample #720
+  IAQ: 95.5 (acc: 1)
+  Temp: 15.1°C, Humidity: 77.8%
+  CO2: 698.9 ppm (acc: 1)
+  bVOC: 0.78 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:43:10] Sample #721
+  IAQ: 96.5 (acc: 1)
+  Temp: 15.1°C, Humidity: 77.8%
+  CO2: 703.2 ppm (acc: 1)
+  bVOC: 0.79 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:43:13] Sample #722
+  IAQ: 97.2 (acc: 1)
+  Temp: 15.1°C, Humidity: 77.8%
+  CO2: 706.0 ppm (acc: 1)
+  bVOC: 0.80 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:43:17] Sample #723
+  IAQ: 96.1 (acc: 1)
+  Temp: 15.1°C, Humidity: 77.8%
+  CO2: 701.2 ppm (acc: 1)
+  bVOC: 0.79 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:43:20] Sample #724
+  IAQ: 94.6 (acc: 1)
+  Temp: 15.1°C, Humidity: 77.8%
+  CO2: 694.8 ppm (acc: 1)
+  bVOC: 0.78 ppm (acc: 1)
+  TVOC: Not yet available
+
+[14:43:23] Sample #725
+  IAQ: 94.4 (acc: 1)
+  Temp: 15.1°C, Humidity: 77.9%
+  CO2: 694.1 ppm (acc: 1)
+  bVOC: 0.78 ppm (acc: 1)
+  TVOC: Not yet available
+

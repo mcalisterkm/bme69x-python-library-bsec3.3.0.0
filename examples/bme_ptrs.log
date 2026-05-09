@@ -1,0 +1,10 @@
+addr_read=0x7ffee181bd44
+addr_write=0x7ffee181be10
+addr_intf_ptr=0x7ffee178cb40
+addr_of_read=0x7ffee178cb98
+addr_of_write=0x7ffee178cba0
+addr_of_intf_ptr=0x7ffee178cb58
+sizeof_bme=104
+off_read=72
+off_write=80
+off_intf_ptr=8
