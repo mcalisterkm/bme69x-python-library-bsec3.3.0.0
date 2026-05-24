@@ -5,7 +5,7 @@
 from bme69x import BME69X
 import bme69xConstants as cst
 import bsecConstants as bsec
-from time import sleep
+from time import sleep, monotonic, time
 from pathlib import Path
 import json
 from collections import deque
@@ -18,6 +18,14 @@ from collections import deque
 # This is the config file output by AI_Studio
 config_file = 'may26-bsec3-example.bmeproject/algorithms/AIR-COFFEE_354_10.config'
 config_path = str(Path(__file__).resolve().parent.joinpath(config_file))
+
+SENSOR_NAME = 'sniff690'
+STATE_DIR = Path('conf')
+STATE_FILE = STATE_DIR / f'state_data_{SENSOR_NAME}.txt'
+STARTUP_CALIBRATION_SECONDS = 30 * 60
+STATE_SAVE_INTERVAL_SECONDS = 60 * 60
+
+
 def read_conf(path: str):
     with open(path, 'rb') as ai_conf:
         conf = [int.from_bytes(bytes([b]), 'little') for b in ai_conf.read()]
@@ -81,15 +89,27 @@ def wait_for_first_sample(bme, timeout_s=6.0):
         waited += step
     return False
 
+
 def main():
     # Open the I2C communications and set the operating mode
-    bme = BME69X(cst.BME69X_I2C_ADDR_HIGH,1,0)
+    bme = BME69X(cst.BME69X_I2C_ADDR_HIGH, 1, 0, SENSOR_NAME)
     # report on the BME690 and BSEC version
     print(f'SENSOR: {bme.get_variant()} BSEC: {bme.get_bsec_version()}')
+
+    STATE_DIR.mkdir(parents=True, exist_ok=True)
+
     sleep(1)
     # Load AI Studio config FIRST (before sample rate)
     # This is a new extension to load an absolute path.
     print(f'SET BSEC CONF {bme.load_bsec_conf_from_file(config_path)}')
+
+    if STATE_FILE.exists():
+        try:
+            print(f'LOAD BSEC STATE {bme.load_bsec_state()} FROM {STATE_FILE}')
+        except Exception as e:
+            print(f'FAILED TO LOAD STATE FROM {STATE_FILE}: {e}')
+    else:
+        print(f'NO SAVED STATE FOUND AT {STATE_FILE}; STARTING COLD')
 
     sleep(1)
 
@@ -115,6 +135,9 @@ def main():
     # Fixed class mapping from AI Studio model (AIR-COFFEE_354_10.config):
     # estimate_1 = AIR, estimate_2 = COFFEE
     class_mapping = {'est1': 'AIR', 'est2': 'COFFEE'}
+
+    start_time = monotonic()
+    next_state_save = start_time + STARTUP_CALIBRATION_SECONDS
 
     while(True):
         try:
@@ -184,6 +207,16 @@ def main():
             except Exception:
                 with open(target, 'w') as file:
                     json.dump(d, file)
+
+            now = monotonic()
+            if now >= next_state_save:
+                try:
+                    print(f'SAVE BSEC STATE {bme.save_bsec_state()} AT {int(time())}')
+                    next_state_save = now + STATE_SAVE_INTERVAL_SECONDS
+                except Exception as e:
+                    print(f'FAILED TO SAVE BSEC STATE: {e}')
+                    # Retry later instead of looping on every sample when save fails.
+                    next_state_save = now + 60
 
 
 

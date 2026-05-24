@@ -83,7 +83,7 @@ def wait_for_first_sample(bme, timeout_s=6.0):
 
 def main():
     # Open the I2C communications and set the operating mode
-    bme = BME69X(cst.BME69X_I2C_ADDR_HIGH,1,0)
+    bme = BME69X(cst.BME69X_I2C_ADDR_LOW,1,0)
     # report on the BME690 and BSEC version
     print(f'SENSOR: {bme.get_variant()} BSEC: {bme.get_bsec_version()}')
     sleep(1)
