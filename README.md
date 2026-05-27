@@ -1,6 +1,6 @@
 ![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)
+![Version](https://img.shields.io/badge/version-3.3.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
 # BME69X and BSEC3.3.0.0 for Python
