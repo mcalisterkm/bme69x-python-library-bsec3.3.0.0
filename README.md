@@ -1,3 +1,8 @@
+![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+
 # BME69X and BSEC3.3.0.0 for Python
 
 The bme69x-python-library is a Python 3 wrapper for the BSEC3 library and BME690 environment sensor available from BoschSensortec. 
