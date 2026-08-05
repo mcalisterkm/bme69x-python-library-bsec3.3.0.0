@@ -12,7 +12,9 @@ Bosch Sensortec released BSEC v3.3.0.0 in March 2026, and this update to the Pyh
 
 Also in this release the Python 'build' package is used, rather than calling setup.py directly to build the extension. 
 
-BME690 Sensor modules from Pimoroni are used in development and testing, connected using I2C to Rapberry Pi Zero, Zero2, PI 4, and PI 5. Bosch Sensortec BSEC3.3 supports PI3 ARM v6,  PI3 ARM v8, PI4 ARM v8 (32 and 64bit support).
+BME690 Sensor modules from Pimoroni are used in development and testing, connected using I2C to Rapberry Pi Zero, Zero2, PI 4, and PI 5. Bosch Sensortec BSEC3.3 supports PI3 ARM v6,  PI3 ARM v8, PI4 ARM v8 (32 and 64bit support). 
+
+The tools folder contains an AI Studio model with classes for AIR and COFFEE that you can try out.
 
 If you have a BME680 or BME688 please use BSEC2 v2.6.1.0 and its Python wrapper which is stable and has 64bit and 32 bit support [here](https://github.com/mcalisterkm/bme68x-python-library-bsec2.6.1.0).  
 
